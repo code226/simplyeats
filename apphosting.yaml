@@ -1,14 +1,14 @@
 env:
   # Get these values from the Firebase console
-  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+  - variable: apiKey
+    value: AIzaSyA8XmkVXyqYmPubyLwhGMpeQRN8Q34Pl98
+  - variable: authDomain
+    value: simplyeats-1bc83.firebaseapp.com
+  - variable: projectId
+    value: simplyeats-1bc83
+  - variable: storageBucket
+    value: simplyeats-1bc83.appspot.com
+  - variable: messagingSenderId
+    value: 306379481295
+  - variable: appId
+    value: 1:306379481295:web:786b9462039ba9937717ba
